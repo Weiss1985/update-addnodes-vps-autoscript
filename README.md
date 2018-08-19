@@ -13,9 +13,6 @@ chmod 755 addnodes-update.sh
 ► <b>STEP 4 : RUNNING AUTO UPDATE ADDNODE SCRYPT<b/>
   
 bash addnodes-update.sh
-<b></b>
 
-
-
-
+-----------------------------------------------
 <b> BTC DONATION ADDRESS : 1MgexxQu5wxtL2RatwmHFx61R4tgiZPjCh</b>
