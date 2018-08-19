@@ -13,6 +13,7 @@ chmod 755 addnodes-update.sh
 ► <b>STEP 4 : RUNNING AUTO UPDATE ADDNODE SCRYPT<b/>
   
 bash addnodes-update.sh
+<b></b>
 
 
 
