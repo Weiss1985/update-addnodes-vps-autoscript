@@ -15,7 +15,7 @@ chmod 755 addnodes-update.sh
 bash addnodes-update.sh
 
 -----------------------------------------------
-RUN THIS SCRIPT FROM 1 LINE COMMAND FROM BELOW GIVEN COMMAND.
+RUN THIS SCRIPT AS 1 LINE COMMAND FROM BELOW GIVEN COMMAND.
 -----------------------------------------------
 
 git clone https://github.com/bitmoneygroup/update-addnodes-vps-autoscript.git && cd update-addnodes-vps-autoscript && chmod 755 addnodes-update.sh && bash addnodes-update.sh
